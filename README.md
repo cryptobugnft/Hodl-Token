@@ -8,7 +8,7 @@ Based on the specifics of your token’s unique distribution and liquidity mecha
 - **Token Name**: Hodl
 - **Symbol**: 🚀
 - **Total Supply**: 1,000,000,000 (1 billion)
-- **Initial Description**: Meme coin designed to engage and entertain crypto enthusiasts, with a focus on community-driven liquidity growth.
+- **Description**: Meme coin designed to engage and entertain crypto enthusiasts, with a focus on community-driven liquidity growth.
 
 ---
 
